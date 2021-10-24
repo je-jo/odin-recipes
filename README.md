@@ -11,7 +11,6 @@ This is a basic page done as a part of The Odin Project's new curriculum. I thou
 - [My process](#my-process)
   - [Built with](#built-with)
   - [The process](#the-process)
-  - [Further development](#further-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -38,16 +37,13 @@ The aim of this project was to understand the basics of HTML, with focus on link
 
 ### The process
 
-This was an easy and relaxing project, seeing I've already done the old lessons. But this is my first multi-page "website".
-
-### Future development
-
-- Add styling.
-- Use Dev Tools to "steal" the styling of The Odin Project site itself.
+This was an easy and relaxing project, seeing I've already done the old lessons. But I believe this is my first multi-page "website".
 
 ### Useful resources
 
 - [allrecipes.com](http://www.allrecipes.com) - For the recipes :P
+- [Norse font](https://www.cufonfonts.com/font/norse)
+- [This freeCodeCamp article](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/) - For the footer placement
 
 ## Author
 
