@@ -67,8 +67,16 @@ header img {
     padding-left: 2.5em;
 }
 
+.card {
+    background-color: #fff;
+    padding: 40px 60px;
+    box-shadow: 0px 15px 30px rgba(0,0,0,0.15);
+    border-radius: 10px;
+    margin: 60px;
+}
+
 h2, p {
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 ul, ol {
@@ -79,7 +87,7 @@ ul, ol {
 a {
     color: #ce973e;
     text-decoration: underline;
-    
+
 }
 
 main a {
