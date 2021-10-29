@@ -23,8 +23,7 @@ body {
 main {
     max-width: 720px;
     margin: 0 auto;
-    padding: 15px;
-    padding-bottom: 200px; /*for the footer, double */
+    padding: 200px 15px; /* for the header and footer, double height */
 }
 
 img {
@@ -35,6 +34,11 @@ img {
 }
 
 header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
     padding: 20px;
     margin-bottom: 100px;
 }
@@ -106,7 +110,9 @@ footer {
     width: 100%;
     height: 100px;
     text-align: center;
-    font-size: 1em;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #4a4a4ab3;
 }
 
 footer p {
